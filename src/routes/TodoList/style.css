@@ -1,0 +1,22 @@
+.title {
+  font-size: 30px;
+  font-weight: 1000;
+  text-align: center;
+  padding: 12px 0 0 0;
+}
+
+.doneText {
+  color: green;
+  font-weight: 1000;
+}
+
+.notDoneText {
+  color: red;
+  font-weight: 1000;
+}
+
+.actionContainer {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}

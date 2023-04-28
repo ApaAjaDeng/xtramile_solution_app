@@ -1,0 +1,19 @@
+.mainContainer {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  padding: 20px;
+}
+
+.detailListContainer {
+  display: flex;
+  gap: 8px;
+}
+
+.listTypeText {
+  font-weight: bold;
+}
+
+.listDetailText {
+  font-weight: 300;
+}
